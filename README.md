@@ -2,6 +2,14 @@
 
 This starter template for Django projects streamlines the setup of Django projects within a GitHub Codespaces environment.
 
+## Start project
+
+If necessary (new codespace) : `pip install --upgrade -r requirements.txt`
+
+Activate it with : `source .venv/bin/activate`, so the prompt changes and shows `(.venv)`.
+
+Run server : `./Projet_Drone/manage.py runserver`
+
 ## Get Started
 
 ### Create a codespace
